@@ -1,6 +1,7 @@
 {
   "name": "generator-web-tutorial-template",
   "version": "1.0.0",
+  "type": "module",
   "description": "A Yeoman generator for a basic web project - meant for tutorials",
   "main": "index.js",
   "scripts": {
