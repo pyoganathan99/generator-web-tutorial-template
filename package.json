@@ -1,0 +1,17 @@
+{
+  "name": "generator-web-tutorial-template",
+  "version": "1.0.0",
+  "description": "A Yeoman generator for a basic web project - meant for tutorials",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "yeoman-generator"
+  ],
+  "author": "yoganathan.p",
+  "license": "ISC",
+  "dependencies": {
+    "yeoman-generator": "^7.4.0"
+  }
+}
